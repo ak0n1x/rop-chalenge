@@ -24,7 +24,9 @@ A personal project documenting my progress in binary exploitation and Return-Ori
 |-----------|-----------|
 | [ret2win](ret2win/) | Stack buffer overflow and control-flow hijacking |
 | [split](split/) | ROP chain and ARM register manipulation |
-
+| [callme](callme/) | Function chaining and ARM calling convention |
+| [write4](write4/) | Arbitrary memory writes using ROP gadgets |
+| [pivot](pivot/) | Stack pivoting, GOT/PLT leaks and multi-stage exploitation |
 ## Disclaimer
 
 This repository is for educational purposes only. All experiments are performed on intentionally vulnerable binaries in a controlled environment.
