@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.core
+core.*
+armroot/
+*.zip
+flag.txt
+.DS_Store
+.vscode/
